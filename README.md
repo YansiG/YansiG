@@ -1,6 +1,6 @@
 - :trollface: Hi, I’m @YansiG
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif](https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif)" width="100"/>
 </div>
 <!---
 YansiG/YansiG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
